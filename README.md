@@ -40,4 +40,3 @@ This project implements the WaveGAN model for audio generation using TensorFlow.
 
 6. Gradient Penalty:
    - The `gradient_penalty` function calculates the gradient penalty, which is used to enforce the Lipschitz constraint on the discriminator.
-   - The function
